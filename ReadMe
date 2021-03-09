@@ -1,1 +1,9 @@
-All tasks 
+Excutable programmes for all tasks ar in classes folder.
+  Ex:- For Task 1
+        AllMediaDesk/AllMediaTasks/AllMediaDesk_Task1/Classes/GUI_Task1.jar
+Sample Inputs for Tasks
+  Task 1 :- 4+(2+3)*(3/8)
+  Task 2 :- 232425
+  Task 3 :- x+(2/5) 
+            When including the equation please use x as the independent variable.
+            
